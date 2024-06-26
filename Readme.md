@@ -17,16 +17,13 @@ A comprehensive election data analysis application that provides insights and vi
 
 ## 🤖 Introduction
 
-Built with Next.js and TailwindCSS, the Election Data Analysis App leverages TypeScript for type safety and Appwrite for backend services. This application offers robust data analysis capabilities, making it ideal for understanding election results and voter demographics.
+Built with Python, the Election Data Analysis App leverages Election data for type safety and Appwrite for backend services. This application offers robust data analysis capabilities, making it ideal for understanding election results and voter demographics.
 
 ## ⚙️ Tech Stack
 
-- Next.js
-- TypeScript
-- TailwindCSS
-- Appwrite
-- React
-- D3.js (for data visualization)
+- Python
+- Data Analysis 
+- Data Science 
 
 ## 🔋 Features
 
@@ -42,8 +39,7 @@ Follow these steps to set up the project locally on your machine.
 
 Ensure you have the following installed:
 
-- Node.js
-- npm (or yarn)
+- pip
 
 ### Cloning the Repository
 
